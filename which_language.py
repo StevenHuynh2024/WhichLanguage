@@ -1,6 +1,6 @@
 import math
 input = input("Text: ").lower().strip(" ")
-file = open("input2.txt")
+file = open("frequencies.txt")
 dict = {}
 letter_dict = {}
 frequency_dict = {}
